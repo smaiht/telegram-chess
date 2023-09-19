@@ -4,10 +4,10 @@
 - A simple and efficient Telegram bot for playing chess, built using Aiogram. 
 - This bot operates in inline mode, allowing users to play chess with other chat participants.
 - All moves are reflected and updated in the original message, ensuring a seamless gaming experience.
-- 
+
 ## Dependencies
 
-This project utilizes the [python-chess](https://github.com/niklasf/python-chess) library by [niklasf](https://github.com/niklasf) for chess logic and operations. Make sure to check out their work!
+This project utilizes the [python-chess](https://github.com/niklasf/python-chess) library by [niklasf](https://github.com/niklasf) for chess logic and operations.
 
 
 ## Try Before Install
